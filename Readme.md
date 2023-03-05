@@ -23,7 +23,7 @@ The main div element has a class of calculator and contains the following elemen
 2. Setting the font family and size for the calculator's display and buttons.
 3. Setting the background color and border radius for the buttons.
 4. Setting the hover and active states for the buttons.
-
+   
 # JavaScript Functionality
 The JavaScript code for the calculator includes:
 
