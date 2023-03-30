@@ -36,6 +36,6 @@ This calculator project is a simple example of how to create a functional calcul
 
 <hr>
 
-``
+``sh
     console.log("Happy coding !")
 ``
